@@ -1,0 +1,45 @@
+
+Anatomy & Physiology
+BI(113, 115, 116)
+
+Biology
+BI(101, 102, 110, 120, 210)
+
+Biotechnology
+BT 
+
+Chemistry
+CH
+
+Computer Literacy
+CS100
+
+Computer Science
+CS (except 100)
+
+Engineering
+EE
+
+Environmental Science
+EV
+
+Mathematics
+MA (except 105), MAC
+
+Mechanical CAD
+MN (121, 130, 135, 140, 141, 241, 261, 271)
+
+Mechanical Engineering
+MN (125, 203, 204, 210)
+
+Microbiology
+Bi (118, 123, 220, 240)
+
+Physics
+PY
+
+Science
+SC
+
+Statistic
+MA105
