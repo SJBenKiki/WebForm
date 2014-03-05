@@ -1,0 +1,33 @@
+//work area(s) separated by tab
+//lastname, firstname followed by tab followed by phone number
+//days separated by comma followed by tab followed by time periods with dash and separated by comma
+//course (2 letter designation and 3 digit number) and section (3 digits number) separated by comma 
+
+Anatomy & Physiology	Biology	
+Hayes, Karina	718-223-4455
+m,t,w,th,f	10-4,5-10
+BI113,003
+BI101,001
+BI120,004	
+
+Anatomy & Physiology	Biology	
+West, Sam	156-444-9876
+m,w,f 10-2
+BI113,003
+BI101,001	
+
+Biology	
+Cooper, Shaun	169-923-9274
+BI101,001
+BI101,002
+	
+Biology	
+Dawson, Julian	131-987-8474
+BI120,004
+BI120,003
+BI120,002
+	
+Biotechnology
+Cooper, Shaun	120-938-1826	
+BI210,002
+BT101,001

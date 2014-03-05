@@ -1,0 +1,128 @@
+
+--Anatomy & Physiology
+Hayes, Karina	18	
+West, Sam	15	
+Richardson, Bobby	13	
+Ferguson, Joe	9	
+Adams, Julian	10	
+Larson, Abby	7	
+Richardson, Katy	5	
+Bourn, Elsa	5	
+Goldman, Jacob	3	
+Everet, Jessie	3	
+
+--Biology
+Cooper, Shaun	16	
+Dawson, Julian	13	
+Ferguson, Bobby	11	
+Everet, Charles	10	
+Richardson, Katy	9	
+Everet, Jessie	6	
+Kuk, Jessie	6	
+Goldman, Jacob	4	
+Bourn, Elsa	5	
+Doe, Brandon	2	
+Richardson, Bobby	2	
+Simmons, Abby	1	
+Nickleson, Sarah		
+Goldman, Jack	1	
+Harkness, Karina	1	
+
+--Biotechnology
+Cooper, Shaun	12	
+Everet, Jessie	5	
+Harkness, Jyoti	2	
+
+--Chemistry
+Doyle, Jacob	25	
+Hayes, Charles	18	
+Simmons, Omir	13	
+Harkness, Omir	10	
+Doyle, Lisa	8	
+Brown, Julian	6	
+Everet, Charles	2	
+Brook, Jane	1	
+
+--Computer Literacy
+Larson, Ester	20	
+Brook, Shaun	18	
+West, Sarah	17	
+Richardson, Joe	11	
+Mayson, Brandon	10	
+West, Barbara	9	
+Sharma, Jessie	8	
+Doyle, Omir	7	
+Everet, Jackie	5	
+Jones, Mindy	5	
+
+--Computer Science
+Larson, Shaun	21	
+West, Sarah	11	
+Nickleson, Mindy	10	
+Laurence, Mindy	7	
+Adams, Cas	6	
+Dawson, Mindy	3	
+Richardson, Brandon	3	
+
+--Engineering
+Laurence, Sam	5
+Bourn, Richard	2
+
+--Environmental Science
+West, Penny	3		
+Dawson, Joe	2	
+Goldman, Jack	1 
+
+--Mathematics
+Hansen, Lindsey	22	
+Nickleson, Penny	22	
+Parks, Richard	19	
+Doe, Paul	17	
+Jones, Paul	16	
+Goldman, Jessie	13	
+Dawson, Lindsey	10	
+Gruesz, Lindsey	9	
+Nickleson, Lisa	9	
+Dawson, Jason	9	
+Bourn, Aaron	9	
+Simmons, Penny	9	
+Cooper, Jackie	9	
+Simmons, Abby	8	
+Jones, Cas	8	
+Laurence, Mindy	7	
+Adams, Jacob	7	
+Bourn, Jyoti	7	
+Wayne, Jyoti	5	
+West, Brandon	5	
+Kuk, Jyoti	4	
+Everet, Sarah	3	
+Laurence, Cas	3	
+Hayes, Julian	3	
+Richardson, Sam	3	
+Dawson, John	2	
+Dawson, Lois	2
+
+--Mechanical CAD
+Sharma, Katy	12
+Ferguson, Sarah	4
+
+--Mechanical Engineering
+Dawson, Paul	6
+Mayson, Aaron	3
+Doe, Jyoti	1
+
+--Microbiology
+Konotopka, Peter	11
+Jones, Sabrina	3		
+
+--Physics
+Laurence, Mindy	7
+Hansen, Joe	1
+
+--Science
+Laurence, Abby	8
+Parks, Lindsey	5
+
+--Statistic
+Knuth, Heather	3	
+Laurence, Dean 1

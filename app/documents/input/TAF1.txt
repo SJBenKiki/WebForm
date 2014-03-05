@@ -1,0 +1,88 @@
+//work area(s) separated by tab
+//lastname, firstname followed by tab followed by phone number
+//days separated by comma followed by tab followed by time periods with dash and separated by comma
+//course (2 letter designation and 3 digit number) and section (3 digits number) separated by comma 
+Hayes, Karina	718-223-4455
+m,t,w,th,f	10-4,5-10
+BI113,003
+BI101,001
+BI120,004	
+
+West, Sam	156-444-9876
+m,w,f	10-2
+BI113,003
+BI101,001	
+
+Cooper, Shaun	169-923-9274
+m,t,w,th,f	9-5
+BI101,001
+BI101,002
+	
+Dawson, Julian	131-987-8474
+m,w,f	9-5
+BI120,004
+BI120,003
+BI120,002
+
+Cooper, Shaun	120-938-1826
+t,th	10-4	
+BI210,002
+BT101,001
+
+Simmons, Omir	111-222-3333
+t	6-9
+th	4-9
+sa	8-7
+su	8-7
+CH101,099
+CH101,475
+CH101,063
+CH102,099
+
+Dawson, Penny	000-999-8888
+m,t,w,th,f	5-10
+Sa	8-12
+MA105,162
+
+Nickleson, Brandon	777-444-3333
+m,t,w,th,f	5-10
+MA105,
+
+Doyle, Lisa	444-222-3333
+m,t,w,th	5-10
+sa	8-12
+CH102,750
+CH101,055
+NS101,700
+SC102,700
+BI101,
+
+Hayes, Julian
+t,th	8-4
+MA1,010
+MA1,011
+MA1,012
+MA1,013
+MA2,010
+MA2,011
+MA2,012
+MA2,013
+MA3,010
+MA3,011
+MA3,012
+MA3,013
+MA200,010
+MA90,010
+MA90,112
+MA90,425
+MA95,012
+MA95,013
+MA98,011A
+MAC100,013
+MA102,012
+MA104,011
+MA104,012
+MA104,014	
+MA105,012
+MA105,014
+MA105,162
